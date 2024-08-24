@@ -46,16 +46,6 @@ Install the required dependencies using npm:
 npm install
 ```
 
-### **4. Start the Development Server**
-
-Run the development server:
-
-```bash
-npm start
-```
-
-The application will be available at `http://localhost:3000`.
-
 ## Usage
 
 - **Add a Task**: Click on the "Add Todo" button to open the modal. Enter the task details (name, description, priority) and click "Add".
