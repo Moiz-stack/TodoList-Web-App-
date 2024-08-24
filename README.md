@@ -76,10 +76,6 @@ Contributions are welcome! To contribute:
 
 Please ensure your code adheres to the project’s coding standards and passes all tests.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE). See the LICENSE file for details.
-
 ## Acknowledgments
 
 - **React**: For providing a robust library for building user interfaces.
@@ -91,32 +87,8 @@ This project is licensed under the [MIT License](LICENSE). See the LICENSE file 
 For any questions, suggestions, or feedback, please reach out to:
 
 - **Name**: Moiz Arif
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **GitHub Profile**: [your-username](https://github.com/your-username)
+- **Email**: [moiz.workmail@gmail.com](mailto:your-email@example.com)
+- **GitHub Profile**: [Moiz-stack](https://github.com/your-username)
 
 ---
-
-### **Adding the README File to Your Project**
-
-1. **Create the README File:**
-   - In your project root directory, create a file named `README.md`.
-
-2. **Copy the Template:**
-   - Copy the content of the above template into the `README.md` file.
-
-3. **Save and Commit:**
-   - Save the file.
-   - Commit the README file to your Git repository:
-
-     ```bash
-     git add README.md
-     git commit -m "Add detailed README file"
-     ```
-
-4. **Push to GitHub:**
-   - Push the changes to your GitHub repository:
-
-     ```bash
-     git push
-     ```
 
