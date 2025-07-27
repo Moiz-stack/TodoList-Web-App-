@@ -57,7 +57,7 @@ const handleDeleteItem = (id) => {
   return (
     <>
       <Navbar />
-
+Moiz
       <Search onSearch={(query) => setSearchQuery(query)} />
 
       <div className='flex justify-center mt-3'>
